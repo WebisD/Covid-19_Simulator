@@ -22,10 +22,15 @@ Download the [NetBeans IDE](https://netbeans.org/downloads/8.2/rc/?pagelang=pt_B
 It can work on other ides or even CMD, but has not been tested.
 
 ## Simulations
+
 ![UI](Images/UI.PNG)
+
 * 100 People
+
 ![100](Images/100.PNG)
+
 * 10 People
+
 ![10](Images/10.PNG)
 
 ## Examples
