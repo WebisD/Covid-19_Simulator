@@ -36,8 +36,11 @@ It can work on other ides or even CMD, but has not been tested.
 ## Examples
 
 Here is a video showing the simulations:
+
 * 100 People
+
 [![100Simulation](https://img.youtube.com/vi/PNjIiIobBvk/0.jpg)](https://www.youtube.com/watch?v=PNjIiIobBvk&feature=youtu.be)
 
 * 10 People
+
 [![10Simulation](https://img.youtube.com/vi/e8rw4CBLdZk/0.jpg)](https://www.youtube.com/watch?v=e8rw4CBLdZk&feature=youtu.be)
